@@ -1,0 +1,7 @@
+print ("Hi, my name is Harman")
+print ("I'm 12 years old")
+print ("I live in Brampton,Onatrio")
+print ("One of my hobbies are to play soccer")
+print ("My school name is Gordan Graydon")
+print ("The sum of 3+5 is",3+5)
+print ("the sum of 2526+8685 is",2526+8685)
